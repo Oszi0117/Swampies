@@ -47,7 +47,9 @@ Klient zrezygnował z funkcjonalności miesiąc po implementacji.
         //note to future self: DON'T FUCK WITH VERTEXATTRIBUTE.POSITION
     }
     
-}```
+}
+```
+
 ![image](https://github.com/5Z3L4/Swampies_2021/assets/58202728/ea718153-4d71-481b-86d3-198a199aea99)
 ![image](https://github.com/5Z3L4/Swampies_2021/assets/58202728/6c00114b-6920-4250-a96f-873d58718d91)
 
