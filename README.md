@@ -1,8 +1,8 @@
 # U.PC.JumpProject
 
-Platformówka multiplayer
+Multiplayer platformer
 
-## Użyte technologie
+## Used technologies
 
 - Unity
 - Fishnet
